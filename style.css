@@ -47,11 +47,7 @@ footer{
 }
 
 .second-line{
-    padding-top: 30px;
-    padding-bottom: 30px;
     color: white;
-    display: flex;
-    justify-content: space-between;
 }
 
 footer a{
