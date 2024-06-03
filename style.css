@@ -1,0 +1,63 @@
+.back-color{
+    background: linear-gradient(to top, white, #c0c0c0);
+}
+
+.nav-link{
+    color: black;    
+}
+.nav-link:hover{
+    font-weight: bold;
+}
+
+.form-control{
+    border: 1px solid black;
+}
+.form-control:focus{
+    border-color: gray;
+    box-shadow: 0 0 0 .25rem gray;
+}
+
+.btn-outline-success{
+    border-color: black;
+    color: black;
+}
+.btn-outline-success:hover{
+    color: white;
+    border-color: gray;
+    background-color: gray;
+}
+
+p a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 10px;
+}
+p a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    background-color: gray;
+}
+
+.first-line{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.second-line{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer a:hover{
+    color: #353535;
+}
